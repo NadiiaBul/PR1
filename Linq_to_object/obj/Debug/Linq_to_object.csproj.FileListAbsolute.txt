@@ -1,0 +1,7 @@
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Linq_to_object\Linq_to_object\bin\Debug\Linq_to_object.exe.config
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Linq_to_object\Linq_to_object\bin\Debug\Linq_to_object.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Linq_to_object\Linq_to_object\bin\Debug\Linq_to_object.pdb
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.csproj.AssemblyReference.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.pdb
